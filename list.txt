@@ -1,0 +1,8 @@
+ apple 1
+ brown onion 1
+ spring onion 2
+ spring greens 150
+ potato 3
+ hendersons relish 15
+ beef stock mix 5
+ sausages 6
